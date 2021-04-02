@@ -12,6 +12,12 @@ The purpose of this work is :
 - Build a Machine Learing Model to predict the new cases during the Second wave of Coronavirus.
 - Build a Basic COVID-19 Dashboard to try and presesnt your work in an Interactive way.
 
+## Jupyter Notebook
+Please view the Notebook [here](https://www.kaggle.com/pranayjunare/new-zealand-model) since Github does not render plotly graphs because it performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. 
+
+Link: [Covid19_New_zealand_Model](https://www.kaggle.com/pranayjunare/new-zealand-model)
+or you can also clone the .pynb file and run it on your local system.
+
 
 ## Snip of Dashboard
 ![Screenshot (534)](https://user-images.githubusercontent.com/65522978/113413937-6a90e880-93d9-11eb-988e-2bfb1edee7e5.png)
